@@ -1,0 +1,15 @@
+{
+  "name": "dep-models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node builder.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dynamoose": "^3.1.0"
+  }
+}

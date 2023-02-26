@@ -1,0 +1,14 @@
+{
+  "name": "sam-lerna-collab",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^18.14.1",
+    "aws-lambda": "^1.0.7",
+    "esbuild": "^0.17.10",
+    "lerna": "^6.5.1",
+    "typescript": "^4.9.5"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
